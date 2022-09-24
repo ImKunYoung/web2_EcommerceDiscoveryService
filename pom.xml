@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>web2_EcommerceDiscoveryService</artifactId>
+    <artifactId>web2_servicediscovery_EcommerceDiscoveryService</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>web2_EcommerceDiscoveryService</name>
-    <description>web2_EcommerceDiscoveryService</description>
+    <name>web2_servicediscovery_EcommerceDiscoveryService</name>
+    <description>web2_servicediscovery_EcommerceDiscoveryService</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2021.0.4</spring-cloud.version>
